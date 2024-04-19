@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://as1.ftcdn.net/v2/jpg/07/00/66/32/1000_F_700663280_vmE4aHL2TCzDxEBv1lbFghPweBbx6I0L.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aa6443&label=Profile%20views&color=0e75b6&style=flat" alt="aa6443" /> </p>
 
 - 🌱 I’m currently learning **React JS**
